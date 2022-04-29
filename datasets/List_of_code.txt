@@ -1,0 +1,2 @@
+# code to load data from a file to your database
+load dat infile 'data source location' into tablename fields ternimated by ',' ignore 1 rows;
